@@ -167,6 +167,9 @@
     <Content Include="Content\Site.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Html1.html" />
+    <Content Include="Html2.html" />
+    <Content Include="Html3.html" />
+    <Content Include="Html4.html" />
     <Content Include="packages.config" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
